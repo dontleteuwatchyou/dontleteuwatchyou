@@ -36,6 +36,14 @@
 - **La performance** — une appli de chat n'a pas à manger 2 Go de RAM.
 - **Le natif** — quand une page web suffit, on l'emballe proprement au lieu d'embarquer un navigateur entier.
 
+### ☕ Soutenir
+
+Tout est gratuit, sans pub et open source. Si mes projets te rendent service, un café m'aide à continuer.
+
+<p>
+  <a href="https://ko-fi.com/forsakengh"><img src="https://img.shields.io/badge/Ko--fi-soutiens--moi-0e0c16?style=for-the-badge&logo=kofi&logoColor=ff5e5b" alt="Soutiens-moi sur Ko-fi"></a>
+</p>
+
 ---
 
 <p align="center">
