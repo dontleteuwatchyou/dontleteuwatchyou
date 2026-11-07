@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/dontleteuwatchyou/plume"><img src="assets/plume.svg" alt="Plume — Discord sans Electron" width="49%"></a>
   <a href="https://github.com/dontleteuwatchyou/nexus"><img src="assets/nexus.svg" alt="Nexus - framework OSINT + pentest" width="49%"></a>
-  <a href="https://github.com/dontleteuwatchyou/onde"><img src="assets/onde.svg" alt="Onde — lecteur de musique natif, dépôt privé" width="49%"></a>
+  <a href="https://github.com/dontleteuwatchyou/onde"><img src="assets/onde.svg" alt="Onde — lecteur de musique natif" width="49%"></a>
 </p>
 
 ### 🛠️ Avec quoi je bosse
